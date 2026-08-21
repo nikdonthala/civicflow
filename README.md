@@ -19,7 +19,7 @@ A unified citizen-facing public-service experience that makes Indian government 
 
 ## 🚀 Live Demo
 
-[**civicflow.vercel.app**](https://civicflow-snowy.vercel.app)
+[**civicflow-snowy.vercel.app**](https://civicflow-snowy.vercel.app)
 
 ## 🛠️ Tech Stack
 
